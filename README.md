@@ -54,15 +54,4 @@ As part of this group project, I contributed to:
 
 ---
 
-## Repository Structure
-
-```text
-database/
-php/
-assets/
-README.md
-report.pdf
-```
-
----
 
